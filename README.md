@@ -1,7 +1,8 @@
-# plantmanager
+# Plant Manager
 🌾 App construidona Next Level Week 5 para cadastrar suas plantinhas e nunca mais esquecer de cuida delas.
 
 ![Screenshot 1](screenshot.png)
+
 
 ## Executando local
 
@@ -9,7 +10,8 @@
 
 * Você deve ter o git, node, expo, json-server instalado em sua máquina;
 
-Para executar este projeto, siga as instruções abaixo:
+
+###Para executar este projeto, siga as instruções abaixo:
 
 1. Abra o Prompt de comando (CMD) ou a sua escolha;
 
