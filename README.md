@@ -1,7 +1,8 @@
 # Plant Manager
 🌾 App construidona Next Level Week 5 para cadastrar suas plantinhas e nunca mais esquecer de cuida delas.
 
-![Screenshot 1](screenshot1.png)  ![Screenshot 1](screenshot2.png)
+![Screenshot 1](screenshot1.png)  ![Screenshot 2](screenshot2.png)
+![Screenshot 3](screenshot3.png)  ![Screenshot 4](screenshot4.png)
 
 
 ## Executando local
