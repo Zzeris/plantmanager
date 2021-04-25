@@ -11,7 +11,7 @@
 * Você deve ter o git, node, expo, json-server instalado em sua máquina;
 
 
-###Para executar este projeto, siga as instruções abaixo:
+### Para executar este projeto, siga as instruções abaixo:
 
 1. Abra o Prompt de comando (CMD) ou a sua escolha;
 
